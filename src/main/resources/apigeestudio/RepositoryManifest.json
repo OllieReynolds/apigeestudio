@@ -1,0 +1,12 @@
+{
+	"RepositoryManifest": [{
+			"url": "https://github.com/OllieReynolds/ASCII_Raymarcher",
+			"branches": ["master"]
+		},
+		{
+			"url": "https://github.com/OllieReynolds/genetic-algorithm-cpp",
+			"branches": ["master"]
+		}
+	],
+	"DiskLocation": "repo/name2"
+}
